@@ -220,23 +220,6 @@ const sarvesh = {
 
 ---
 
-<!-- CONTRIBUTION SNAKE -->
-## 🐍 &nbsp;Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codeenk/codeenk/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codeenk/codeenk/output/github-contribution-grid-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/codeenk/codeenk/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
-
-> ⚙️ To enable the snake animation, add the workflow below to `.github/workflows/snake.yml` in your profile repo.
-
-<br/>
-
----
-
 <!-- EXPERIENCE -->
 ## 💼 &nbsp;Experience
 
